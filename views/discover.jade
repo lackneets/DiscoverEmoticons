@@ -1,0 +1,28 @@
+extends layout
+
+block maincontent
+	.text-center(style='font-size:12px; color: #ccc;') 搜尋耗時 #{time} 毫秒
+	h1 #{search}
+
+	- if (typeof(emoticons) !== 'undefined')
+		.row
+			-for(var i in emoticons)
+						div.emoticon.col-xs-2.col-sm-1.text-center
+							a(href='/related/'+emoticons[i].hash, _target="_blank")
+								img(src=emoticons[i].url)
+
+
+
+	- if (typeof(emoticon) !== 'undefined')
+		.row.text-center
+			img(src=emoticon.url)
+
+	- if (typeof(related) !== 'undefined' && related.length > 0)		
+		hr
+		h1 Related
+		.row
+			-for(var i in related)
+					div.emoticon.col-xs-2.col-sm-1.text-center
+						a(href='/related/'+related[i].hash, _target="_blank")
+							img(src=related[i].url)
+

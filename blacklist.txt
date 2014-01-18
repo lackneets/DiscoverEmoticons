@@ -1,0 +1,185 @@
+chance_deliver	4634727	小籤籤	robot	占卜
+spaplurkbot	7606208	女僕SPA	robot	???
+ofsmall	7897845	小 的 2.0	robot	
+plurktop	3817603	今日我最噗	robot	資訊廣播
+counterbot	4978463	小秘書	robot	???
+KISSRADIO999	3670803	KISSRADIO999	robot	灌水 / 查詢服務?
+repost	5410409	轉噗機	robot	轉噗
+sheep_knowledge	3902175	羊羊騎貘姿勢佳	robot	來亂的
+song_deliver	4708232	小歌手	robot	影音服務
+plurkfu	6119898	你覺得這噗	robot	轉噗
+brucepush	4009327	布魯斯推推	robot	來亂的
+shitsuji	4952912	Jin Cendrars	robot	來亂的
+friendate	4191807	害羞人	robot	代理發言
+TW_nextmedia	3748148	蘋果日報	robot	新聞
+cts_news	4399749	cts_news	robot	新聞
+nownewsonline	4303773	NOWnews	robot	新聞
+pootel	4510382	Edward² ™	banned	
+awakeningtw	3657083	anntw	robot	新聞
+TechNet	3989587	TechNet	robot	新聞
+forecast	5211437	預報美眉	robot	新聞
+pct_solidot	3565637	pct_solidot	robot	新聞
+MSDNBlogs	3947717	MSDN	robot	資訊廣播
+dotblogs	3925024	點部落	robot	資訊廣播
+pct_googlecn	5431894	pct_googlecn	robot	資訊廣播
+pct_linuxtoy	4772444	pct_linuxtoy	robot	資訊廣播
+phd6	3590638	豬言豬語	robot	來亂的
+pct_techcrunch	3746239	pct_techcrunch	robot	英文資訊
+pct_engadget	3714844	pct_engadget	robot	英文資訊
+pct_zdnet_news	3595913	pct_zdnet_news	robot	英文資訊
+pct_slashdot	3592453	pct_slashdot	robot	英文資訊
+pct_osnews	3652828	pct_osnews	robot	英文資訊
+pct_mashable	3714585	pct_mashable	robot	英文資訊
+pct_gigaom	3714669	pct_gigaom	robot	英文資訊
+pct_gizmodo	3714940	pct_gizmodo	robot	英文資訊
+pct_readwriteweb	3715019	pct_rw_web	robot	英文資訊
+pct_lifehacker	3715194	pct_lifehacker	robot	英文資訊
+pct_linuxdevices	3739762	pct_linuxdevices	robot	英文資訊
+pct_linuxtoday	3902224	pct_linuxtoday	robot	英文資訊
+pct_linuxjournal	4417209	pct_linuxjournal	robot	英文資訊
+pct_linux	4645244	pct_linux	robot	英文資訊
+pct_reddit	4651931	pct_reddit	robot	英文資訊
+wiki4u	4751719	邦尼薇琪 幫你wiki	robot	查詢服務
+flickr4u	4900161	邦尼福利客 幫你Flickr	robot	查詢服務
+Loumei	5551972	吃什麼	robot	查詢服務
+Marvin9309	7286610	卡鳥警衛	banned	
+song4u	4299622	邦尼妹妹 幫你呻吟	robot	影音服務
+robotboyfriend	8072119	情癲大聖	robot	
+fatfate	4579330	肥肥夫人	robot	占卜
+martfarttart	4611674	開示大師	robot	占卜
+sd_bot	4415160	sd_bot	robot	占卜
+tfeng_bot	7750018	I'm 機器人	robot	
+match4u	4595542	邦尼北杯 幫你配對	robot	占卜
+aigift	4973610	愛禮物	robot	
+blessu	4078727	邦尼祖父 幫你祝福	robot	代理發言
+Lotteryu	4096250	邦尼樂透 幫你樂	robot	代理發言
+papago_robot	5092473	星妹給你噗噗	robot	來亂的
+AVIATW	4240763	AVIA 鐵人	robot	來亂的
+remyplurk	5573971	...	robot	轉噗
+polly_ex	4014089	Polly	robot	轉噗
+rogabot	3440147	rogabot	robot	???
+JoBot	6842037	LOL	robot	???
+booksad	5239568	言書機ﭢ	robot	中文資訊
+quiet_think	4072534	靜思語	robot	中文資訊
+top_news	5060444	小Bo報報	robot	中文資訊
+mining_tw	4021450	無名挖挖挖	robot	查詢服務
+rakuya	3534355	Rakuya	robot	查詢服務
+diglandmark	4036252	MoZop地標機	robot	查詢服務
+gugigi	4708688	淺草籤§	robot	占卜
+ELShaddai	7357810	路西法	robot	???
+pttRSS	8137710	pttRSS	robot	資訊廣播
+eyelid_beating	4633459	眼皮占噗師	robot	占卜
+baka8775	0		robot	
+wantcomplain	5196361	有人大喊	robot	代理發言
+adamtalk	5565624	亞當夏娃喊	robot	代理發言
+funkyou	4038751	邦尼阿嬤 幫你罵	robot	代理發言
+sweetu	4075401	邦尼甜蜜 幫你甜	robot	代理發言
+sheep_know1edge	4015496	羊羊騎膜姿勢佳	robot	來亂的
+google2009	3995870	骨狗餿水桶	robot	來亂的
+WebMagic	4858622	卡洛里小姐	robot	其他
+NTULIB	4197031	NTULIB	robot	中文資訊
+yongwei_robot	417068	小藍象	robot	中文資訊
+chienwenRobot	3600311	Chienwen™Robot	robot	中文資訊
+ehousekeeper	4134193	e管家小鬧鐘	robot	中文資訊
+thinkif	3971601	貼圖答覆機－河豚	robot	???
+we_plurk	6472102	噗熱浪	robot	???
+BuyerMap	3757638	大台北美食地圖	robot	???
+baipu	5993803	掰噗~	robot	灌水
+rhinohorns_rbt	5941954	洗芭樂	robot	來亂的
+a00000	3436759	PlurkBuzz	robot	???
+pct_1apple_news	3468131	[pct] 壹蘋果即時新聞	robot	新聞
+pct_engadget_tw	4091680	[pct]癮科科機器人	robot	資訊廣播
+pct_techbang	4776477	[pct] T 客邦	robot	資訊廣播
+pct_freegroup	4778071	[pct] 免費資源網路社群	robot	資訊廣播
+pct_slots	4883211	[pct] 吃角子老虎	robot	查詢服務
+Bodhisattva_	5536000	籤        王	robot	占卜
+amylinco2	4799740	女僕小C	robot	來亂的
+megapm	5141834	管家吉普	robot	其他
+nciku_tw	3288739	免費英漢字典-n詞酷	robot	中文資訊
+iveg	4136509	iveg(初一、十五)	robot	中文資訊
+pct_crave	3982396	[pct]Crave科技瘋	robot	資訊廣播
+mydesy_dig	4028255	ㄇㄞˋ點子設計通	robot	資訊廣播
+pct_punch_line	4182545	[pct] 給我報報機器人	robot	資訊廣播
+pctbot	3301860	[pct]正妹機器人	robot	查詢服務
+pct_translate	4794346	[pct] google翻譯	robot	查詢服務
+pct_astro	3496858	[pct]星座機器人	robot	占卜
+HanWord	5461026	₪ 漢字王２	robot	???
+pan_karma	6241244	騙卡馬	robot	灌水
+pan_karma_2	7451462	胡言亂語的騙卡馬	robot	灌水
+Sanji0419	7619044	柳丁鋼彈 GN#00001	robot	來亂的
+AutoWorship	6113925	噗仙™	robot	灌水
+pooogle	7753029	噗浪狗仔	robot	???
+gooddoglife	4535213	寒多祿	robot	中文資訊其他
+plurkbuddy	18757	plurkbuddy	robot	BOSS
+cheatKarma	6597332	喜歡♥卡馬	robot	灌水
+www_mobile01_com	3692468	Mobile01小惡魔	robot	資訊廣播
+andy821002	7376794	新一代.騙卡馬	robot	灌水
+lbswx	7022762	噗浪報你家氣象	robot	新聞
+citytalk	3212350	Citytalk城市通	robot	資訊廣播
+yzutalk	6485194	透可robot™	robot	
+wedoit	5920183	e力小秘書	robot	查詢服務
+cscworm	3607202	雲端算命仙	robot	占卜
+carrolltrust	4266124	carrolltrust	suspicious	
+singsheksiu	7376182	石少×	banned	
+lkk292707	5999513	失電雷絲	banned	
+harerobot	7392098	=瞎噗=	robot	???
+nxbot	7406887	機械NX	robot	???
+smile_potato	7806297	微笑番薯人~	robot	
+i_power	7741352	弱智小i	robot	灌水
+Uccianannda	5956641	Uccan (◕‿◕✿)	spam	
+z7322421	7817957	賣公威	banned	
+Poppi_Jin	7182532	峻哥-	banned	
+x_carly_x	771		banned	
+gn01616809	6084544	阿肯好帥	banned	
+yah117728	6597729	鸚鵡*-WBWY.	banned	
+Jimmy1986	5981258	Secret	banned	
+attitude93	6503326	#34態度=D	banned	
+zxc10806	7233992	悠閒的秋毅	banned	
+tinyst520	7150159	寅傑不蟀♪	banned	
+gtist	4066887	阿亨 #17	banned	
+lulufunk	7157676	♥嚕嚕米♡	banned	
+317Kevin	6888464	向上吧KKK~份	banned	
+fuji568	4453823	✰~【	robot	???
+shiabai	7695089	瞎咪噗舊帳號，已停用	robot	
+monica8913094	6978716	~Mo~	banned	
+arther_rain	5808807	君怡ˇ久病無藥醫	banned	
+jhang_wnagwang	3791847	汪汪™	banned	
+ayyxts	-1		banned	
+kei104	7143462	璟。Kei	banned	
+Ashilly	6370561	逃生門の悪夢‧啊噓™	banned	
+fire2968	5984989	~東 . FIRE!!	banned	
+arasy3	8281684	Arasy	banned	
+DsLove710	7219257	其實我真的不台	banned	
+van_cheng4	5926629	夭壽MAN的慾汗啦	banned	
+bkchu0420	7070876	妝紅鳶	banned	
+approah0613	5932669	你哪位?	banned	
+love_amy89625	7101657	孟孟孟	banned	
+maomaojustin	4478803	家和萬事興 場記-吳☆大毛	banned	
+a958600	6945532	AD~	banned	
+xieeason	7178213	。風昇雨昇讀書昇™	banned	
+pjs20085	6543378	化學克	banned	
+wei_1992	6743960	wei～	banned	
+ffffff2641	7786096	=駿哥=	banned	
+passionterry	7531447	passion彧	banned	
+uing_bear	7112690	藍白拖牛仔褲吊嘎是夏天的季節	banned	
+donkey0929	5635469	譚大驢	banned	
+iwhitei	7241920	點點→帥犬→藍五星◎小球王國	banned	
+Leon60	6079817	淡淡的哀傷，我蛋蛋在受傷	banned	
+if_vanishes	5458835	藍因的因沒有艹。	banned	
+diablojason	3852584	型男大主廚	banned	
+left10431	6961016	龍捲風的Q	banned	
+yowan0908	5789305	大丈夫だ、問題ない＊魂	banned	
+tson_tson	6805196	CheeShan	banned	
+shiamipu	8065373	瞎咪噗	robot	灌水
+jay22055	6585183	大熊/玄彬/檸檬班	banned	
+stbernand	5702381	李拉奇	banned	
+shirley_hello	7588440	【威特爾_公關_威廉】	banned	
+ean623	4352520	かげやまい/吳竹馬♪	banned	
+MeDoMeDo	3367889	Wedo東	banned	
+Nicolas0521	6573449	Nicolas尤	banned	
+dhiecgknae	7672493	dhiecgknae	banned	
+a2742	4454117	V主張台灣獨立	robot	???
+tonyjan	7910597	小兜蟲	robot	來亂的
+kenlo64	306144	臺灣共和國@Ken	banned	
+talkQ	7709509	透可Q	robot	
+mafuyuloli	9677921	蘿莉真冬	robot 	

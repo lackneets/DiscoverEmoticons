@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+  width: 100%; }
+  html body {
+    background-color: #efefef;
+    background-image: url(/images/geometry_@2X.png);
+    padding-top: 70px; }
+  html a {
+    color: #777; }
+  html a:hover {
+    color: #81c105; }
+  html .bg.hakase {
+    background-image: url(/images/hakase.png);
+    background-position: right bottom;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    z-index: -1; }
+    @media screen and (max-width: 767px) {
+      html .bg.hakase {
+        opacity: 0.4;
+        background-size: contain;
+        left: 30%;
+        right: -30%; } }
+  html .emoticon {
+    margin: 5px; }
+    html .emoticon a {
+      width: 60px;
+      height: 60px;
+      display: inline-block;
+      padding: 6px;
+      background: rgba(255, 255, 255, 0.8);
+      border-radius: 8px; }
+    html .emoticon:hover a {
+      background: rgba(153, 203, 56, 0.3); }
+  html .hotTerm {
+    font-size: 40px;
+    margin: 8px;
+    display: inline-block;
+    white-space: nowrap; }
+    html .hotTerm span {
+      background: rgba(255, 255, 255, 0.8);
+      display: inline-block;
+      padding: 2px;
+      border-radius: 8px; }
+    html .hotTerm:hover span {
+      background: rgba(153, 203, 56, 0.2); }
+  html .main-logo {
+    background-image: url(/images/Magnifying-Glass-high-res-psd53394.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 400px;
+    height: 160px;
+    margin: 30px auto; }
+  html .logo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+    font-style: italic;
+    color: #efefef;
+    text-shadow: rgba(0, 0, 0, 0.5) -1px 0, rgba(0, 0, 0, 0.3) 0 -1px, rgba(255, 255, 255, 0.5) 0 1px, rgba(0, 0, 0, 0.3) -1px -2px; }
+    html .logo .emoticons {
+      margin-left: 5px;
+      font-weight: normal;
+      font-size: 28px;
+      color: #99cb38; }
+    html .logo .beta {
+      font-family: sans-serif;
+      font-weight: normal;
+      font-size: 9px;
+      color: #FFF;
+      position: relative;
+      top: -10px;
+      left: 3px; }

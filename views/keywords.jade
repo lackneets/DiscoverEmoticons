@@ -1,0 +1,9 @@
+extends layout
+
+block maincontent
+	-for(var i in emoticons)
+				div.col-sm-1.text-center
+					img(src=emoticons[i].url)
+					-for(var k in emoticons[i].keywords)
+						div.text-center 
+							| #{ emoticons[i].keywords[k] }

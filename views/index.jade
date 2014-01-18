@@ -1,0 +1,15 @@
+extends layout
+
+block maincontent
+	.col-md-8.col-md-offset-2
+		.main-logo
+	.col-md-8.col-md-offset-2
+		form(onsubmit="window.location='/discover/'+this.discover.value; return false;")
+			input(name='discover').form-control
+	.col-md-8.col-md-offset-2.text-center
+		-for(var i in hotTerms)
+			a(href='/discover/' + hotTerms[i].term, title=hotTerms[i].support)
+				span.hotTerm
+					span(style='font-size:' + hotTerms[i].size) #{hotTerms[i].term}
+
+	.col-md-8.col-md-offset-2.text-center(style='font-size:12px; color: #ccc;') 共蒐集 #{total} 張表情圖片
